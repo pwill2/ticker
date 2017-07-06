@@ -1,0 +1,50 @@
+.text-center {
+	text-align: center;
+}
+
+#btn_timer_bar {
+	padding-top: 15px;
+}
+
+.card-panel {
+	background-color: #002255;
+}
+
+nav {
+	background-color: #002255;
+}
+
+#start-btn {
+	background-color: #1b5e20;
+}
+
+#stop-btn {
+	background-color: #b71c1c;
+}
+
+body {
+	background-color: #A7A9AC;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+ 	flex: 1 0 auto;
+}
+
+footer.page-footer {
+	background-color: #002255;
+}
+
+.footer-links {
+	color: #628CB6;
+}
+
+.card-panel {
+	margin: 0.3em 0 0 0;
+}
+
+.bold {
+	font-weight: bold;
+}
